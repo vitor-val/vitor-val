@@ -1,7 +1,7 @@
 👋 Olá, seja bem vindo!
-Vitor Val - Data Engineer | Azure | Databricks | Spark
 
-<!--
+# Vitor Val - Data Engineer | Azure | Databricks | Spark
+
 
 💻 Engenheiro de Dados (Bacharel em Ciência da Computação) atuando com **Big Data** e **Engenharia de Dados** com foco em **Cloud (Microsoft Azure)**. Experiência com **Databricks (batch e streaming)**, **Azure Data Factory**, **Lakehouse/Delta Lake**, bancos relacionais e NoSQL, e pipelines de dados ponta a ponta.
 
